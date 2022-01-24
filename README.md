@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Praveen
 
-#### I try to built websites and make computers learn!
+### I try to built websites and make computers learn!
 
  - I'm currently working as a Data Scientist for Society of Health and Medical Technology 
  - My expertice lies in the Image Segmentation, Pattern Recognition and Bio-Medical Image Analysis
