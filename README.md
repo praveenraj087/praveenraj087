@@ -2,6 +2,10 @@
 
 #### I try to built websites and make computers learn!
 
+ - I'm currently working as a Data Scientist for Society of Health and Medical Technology 
+ - My expertice lies in the Image Segmentation, Pattern Recognition and Bio-Medical Image Analysis
+ - I'm presently working on improving my Web Development skills
+
 ## Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
