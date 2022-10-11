@@ -2,7 +2,7 @@
 
 ### I try to built websites and teach computers to do things!
 
- - ✨ I'm currently working as a Data Science Intern for Society of Health and Medical Technology 
+ - ✨ I'm currently enrolled as a Master's student in Computer Engineering 
  - 👀 My expertice lies in the Image Segmentation, Pattern Recognition and Bio-Medical Image Analysis
  - 🌱 I'm presently working on improving my Web Development skills
 
@@ -16,7 +16,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -27,20 +26,6 @@
 
 
 
-
-### Connect with me:
-<a href="https://www.reddit.com/user/ThePokemonKiller53">
-  <img align="left" alt="Praveen's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
-<a href="https://www.linkedin.com/in/praveen-raj-47745118b/">
-  <img align="left" alt="Praveen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/khp6d12uz8rp27giejkmmtzgy">
-  <img align="left" alt="Praveen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC9bbzeVnCyKVmAKYk3LGmCw/featured">
-  <img align="left" alt="Praveen's Youtube" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
 
 <br>
 <br>
