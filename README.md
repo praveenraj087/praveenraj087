@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Praveen
 
-### I try to built websites and teach computers to do things!
+### I try to build websites and teach computers to do things!
 
  - ✨ I'm currently enrolled as a Master's student in Computer Engineering 
- - 👀 My expertice lies in the Image Segmentation, Pattern Recognition and Bio-Medical Image Analysis
+ - 👀 My expertise lies in Image Segmentation, Pattern Recognition and Bio-Medical Image Analysis
  - 🌱 I'm presently working on improving my Web Development skills
 
 ## Technologies
